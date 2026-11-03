@@ -61,9 +61,23 @@ I build modern web applications, mobile apps, and digital solutions that solve r
 
 ## 📊 GitHub Stats
 
-<!--STATS:START-->
-_Stats appear here after the first run of the **Update profile stats** workflow (Actions tab → Run workflow)._
-<!--STATS:END-->
+<div align="center">
+
+| 📦 Public Repos | 👥 Followers | ➕ Following | 📝 Public Gists |
+| :---: | :---: | :---: | :---: |
+| ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaxcleetus&query=%24.public_repos&label=&color=6366F1&style=for-the-badge) | ![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaxcleetus&query=%24.followers&label=&color=6366F1&style=for-the-badge) | ![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaxcleetus&query=%24.following&label=&color=6366F1&style=for-the-badge) | ![Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaxcleetus&query=%24.public_gists&label=&color=6366F1&style=for-the-badge) |
+
+</div>
+
+### 📈 Commit Activity
+
+<div align="center">
+
+[![Contribution graph](https://ghchart.rshah.org/6366F1/maxcleetus)](https://github.com/maxcleetus)
+
+<sub>Every square is a day of commits, PRs and issues over the past year.</sub>
+
+</div>
 
 ---
 
