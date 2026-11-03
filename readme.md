@@ -1,21 +1,78 @@
-<h1 align="center">Hi , I'm max cleetus</h1>
-<h3 align="center">Fullstack developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxcleetus&label=Profile%20views&color=0e75b6&style=flat" alt="maxcleetus" /> </p>
+# Max Cleetus
 
-- 📫 How to reach me **maxcleetus@gmail.com**
+**Full-Stack Developer · MERN Stack · React Native**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/max cleetus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max cleetus" height="30" width="40" /></a>
-<a href="https://instagram.com/maxcleetus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxcleetus" height="30" width="40" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Building+web+%26+mobile+applications;Turning+ideas+into+practical+software;Exploring+AI%2C+automation+%26+cloud" alt="Typing animation" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxcleetus&show_icons=true&locale=en&layout=compact" alt="maxcleetus" /></p>
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/maxcleetus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/max-cleetus)
+[![Instagram](https://img.shields.io/badge/Instagram-0F172A?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/maxcleetus)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:maxcleetus@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxcleetus&show_icons=true&locale=en" alt="maxcleetus" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxcleetus&" alt="maxcleetus" /></p>
+---
+
+## 👋 About
+
+I build modern web applications, mobile apps, and digital solutions that solve real-world problems. I currently work as a **Software Developer at a digital marketing company**, focusing on scalable applications, automation tools, and user-friendly digital experiences.
+
+| | |
+|---|---|
+| 🔭 **Focus** | Full-stack development with the MERN stack |
+| 📱 **Building** | Web and mobile applications |
+| 🤖 **Exploring** | AI integration, automation, and cloud technologies |
+| 🌱 **Learning** | Always picking up something new |
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=1572B6)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0F172A?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB)
+
+---
+
+## 📊 GitHub Stats
+
+<!--STATS:START-->
+_Stats appear here after the first run of the **Update profile stats** workflow (Actions tab → Run workflow)._
+<!--STATS:END-->
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to interesting projects and conversations. Reach me at **[maxcleetus@gmail.com](mailto:maxcleetus@gmail.com)** or through any of the links above.
+
+<div align="center">
+
+<sub><i>Building, learning, and creating something meaningful.</i></sub>
+
+</div>
